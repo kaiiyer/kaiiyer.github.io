@@ -15,7 +15,7 @@ Anything that makes me happy :D (Though Python 3 and C are favorites)
 GNu Parrot with Manjaro Linux thrown in occasionaly
 
 # Can you be hired?
-Yes, ofcourse! take a look at my [resume](https://github.com/kaiiyer/kaiiyer.github.io/me/Resume.pdf)
+Yes, ofcourse! take a look at my [resume](https://github.com/kaiiyer/kaiiyer.github.io/raw/master/me/Resume.pdf)
 
 # Contact
 Feel free to drop in a mail: kaiiyer [at] cusat [dot] ac [dot] in
