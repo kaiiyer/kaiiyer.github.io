@@ -14,6 +14,11 @@ Anything that makes me happy :D (Though Python 3 and C are favorites)
 # Which OS do you use?
 GNu Parrot with Manjaro Linux thrown in occasionaly
 
+# What are your recent projects ?
+Please check them out here: 
+[Backnet](https://kaiiyer.github.io/backnet/)
+[Automated Threat Intelligence Model](https://kaiiyer.github.io/automated-threat-intelligent-model/)
+
 # Can you be hired?
 Yes, ofcourse! take a look at my [resume](https://github.com/kaiiyer/kaiiyer.github.io/raw/master/me/Resume.pdf)
 
