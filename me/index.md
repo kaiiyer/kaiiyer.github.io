@@ -2,16 +2,16 @@
 layout: about
 ---
 
-Hi, I am Kai. Lover of Infosec,ML, *nix, automation. I code, read, teach and does some basic I/O, when bored. This is my memory dump for all good people to see :)
+Hi, I am Kai. Lover of Infosec, ML, *nix and automation. I code, read, apply my skills to go beyond possibilities. This is my memory dump for all good people to see :)
 
 # What do you do?
 I tweak my Linux box, try to get better at programming, lust at old hardware and cars and spends a good deal of time thinking. I am an infosec enthusaist and currently engaged with Threat Intel.
 
 # What programming languages do you use?
-Anything that makes me happy :D (Though Python 3 and C are favorites) 
+C Python and Go are my favorites 
 
 # Which OS do you use?
-GNu Parrot with Manjaro Linux thrown in occasionaly
+GNU Parrot with Manjaro thrown in occasionaly
 
 # What are your recent projects ?
 Please check them out here: 
