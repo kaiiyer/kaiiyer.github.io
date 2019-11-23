@@ -13,16 +13,6 @@ C Python and Go are my favorites
 # Which OS do you use?
 GNU Parrot with Manjaro thrown in occasionaly
 
-# What are your recent projects ?
-Please check them out here: 
-
-[Backnet](https://kaiiyer.github.io/backnet/)
-
-[Automated Threat Intelligence Model](https://kaiiyer.github.io/automated-threat-intelligent-model/)
-
-# Can you be hired?
-Yes, ofcourse! take a look at my [resume](https://github.com/kaiiyer/kaiiyer.github.io/raw/master/me/Resume.pdf)
-
 # Contact
 Feel free to drop in a mail: kaiiyer [at] cusat [dot] ac [dot] in
 Better still, you can contact me on [LinkedIn](https://www.linkedin.com/in/anoop-krishnan47/)
