@@ -9,8 +9,7 @@ The event was an Open Hackathon which allowed the teams to develop projects of t
 
 I packed my bag and set off to the venue in search of innovative ideas, geeky vibe and free food! Thankfully I met two inspiring teammates and we started working on our project ‘ How to defend your autonomous cars against cyber attacks ? ’.
 
-<img src="https://miro.medium.com/max/6000/1*hw172H_TWf4vLdT41isI0A.jpeg" alt=".hack() by IEEE MACE">
-I had an epiphany as I came across the article: how to hack a car. I started my research about the latest developments and advancements in that area and came across this blog. Since I have a background in InfoSec, I dived into the project to defend automobiles from cyber attacks. The possibility of cars getting hacked is increasing day by day as connected cars and V2X communication are the upcoming trends in market.
+I had an epiphany as I came across the article: how to hack a car. I started my research about the latest developments and advancements in that area and came across this blog. Since I have a background in InfoSec, I dived into the project to defend automobiles from cyber attacks. The possibility of cars getting hacked is increasing day by day as connected cars and V2X communication are the upcoming trends in market.<img src="https://miro.medium.com/max/6000/1*hw172H_TWf4vLdT41isI0A.jpeg" alt=".hack() by IEEE MACE" height="350" width="600">
 
 My Automobile Security for dummies approach focuses on Log Analysis and Incident Response which is the current industry standard for protecting organizational assets. The use of SIEM and SOAR is the backbone for the development of the AutoSec model. Around the globe, various organizational assets ranging from PCs to routers(End point devices) and the Network they’re operating on are being secured by Security Tools like CarbonBlack, Fidelis and Splunk.
 
