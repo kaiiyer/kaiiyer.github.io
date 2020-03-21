@@ -1,6 +1,6 @@
 ## Automobile Security at IEEE Hackathon
 
-<img src="https://miro.medium.com/max/6000/1*bkgDXYXDzWqwjgQYhesgkg.jpeg" alt=".hack() by IEEE MACE" height="vh">
+<img src="https://miro.medium.com/max/6000/1*bkgDXYXDzWqwjgQYhesgkg.jpeg" alt=".hack() by IEEE MACE" width= "600px" height="350vh">
 
 
 My 27th hackathon .hack() organized by IEEE MACE at KSUM(Kerala Startup Mission) was overflowing with ideas and innovation. Young devs, mentors, volunteers and the amazing participants took the excitement to the next level with their mind-blowing ideas.
