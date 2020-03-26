@@ -16,4 +16,5 @@ GNU Parrot with Manjaro thrown in occasionaly
 
 # Contact
 Feel free to drop in a mail: kaiiyer47 [at] yahoo [dot] in
+
 You can connect with me on [LinkedIn](https://www.linkedin.com/in/anoop-krishnan47/)
