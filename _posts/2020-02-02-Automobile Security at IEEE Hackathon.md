@@ -1,4 +1,3 @@
-## Automobile Security at IEEE Hackathon
 
 <img src="https://miro.medium.com/max/6000/1*bkgDXYXDzWqwjgQYhesgkg.jpeg" alt=".hack() by IEEE MACE" width= "600px" height="350vh">
 
