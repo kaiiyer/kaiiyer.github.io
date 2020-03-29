@@ -1,5 +1,7 @@
 Should we actually care about privacy during coronavirus pandemic ?
+
 Why is privacy a big deal during this crunch ?
+
 Let’s understand WHY privacy may be a big enchilada.
 
 <img src="https://miro.medium.com/max/5184/1*jIgH1VJHHEX8cHW4EqBE4w.jpeg" alt="Photo by NeONBRAND on Unsplash" width= "600px" height="350vh"> 
