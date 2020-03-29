@@ -10,21 +10,7 @@ The coronavirus pandemic has led to a situation where the offices are packed up 
 
 Many organizations(govt. & non govt.) have allowed work from home. Most of the meetings and interactions are held using tools like Microsoft Teams, Slack, Zoom, Hangouts, Citrix etc. But <b>are these apps safe ?</b> Greater privacy risks and employer surveillance is awaiting us.
 
-   <div>
-    <table>
-        <td>
-Its surprising that my payment app Paytm doesn’t work if Zoom is installed on my phone. 
-Unless such screen recording apps are uninstalled paytm won’t work. 
-But how does my payment app know that I even have zoom installed ? 
-
-And who asked them to audit my device. By the way thanks for your concern Paytm.
-I did some reconnaissance and found  <a href="https://entrackr.com/2020/03/why-is-paytm-flagging-teamviewer-zoom-apps-as-threat/">here</a> blog which explains the policy of the app.
-        </td>
-        <td><img src="https://miro.medium.com/max/706/1*B5q5vWVwSPE_g6Ux3HJUbg.jpeg" alt="Paytm Screenshot" width="100%" >
-        </td>
-    </table>
-</div>
-
+<img src="https://user-images.githubusercontent.com/24914913/77850707-e4542c00-71f1-11ea-96c2-9564f4242fa9.png" alt="Paytm Screenshot" width="100%" >
 
 Most of the developers have used Slack at some point of work. 
 You may have noticed that free slack workspaces only allow visibility to 10k messages. 
