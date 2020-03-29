@@ -40,8 +40,8 @@ Employee monitoring can go overboard and instead of being a tool that need to in
 A number of the privacy endangering features are taking screenshots of employees’ screens at like every 10 minutes, video recordings during off hours, tracking Geo-location and maintaining communication logs. 
 Giving unnecessary permissions like access to sensors or call logs can invite unnecessary privacy risks. Don’t Become a COVID-19 Identity Exploit Victim. Here are a number of the cybersecurity tips for workers working remotely.
 
-Singapore is doing a reasonably good job of employing a Bluetooth mesh network to perform contact tracing. Data is stored on-device and only are often activated when contact tracing is important . No location data is collected.
-How TraceTogether works
+Singapore is doing a reasonably good job of employing a Bluetooth mesh network to perform contact tracing. Data is stored on-device and only are often activated when contact tracing is important. No location data is collected.
+
 What are the open-source alternatives ?
 
     Jitsi (My personal favourite)
