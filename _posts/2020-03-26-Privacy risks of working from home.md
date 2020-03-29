@@ -24,8 +24,8 @@ Here’s <a href="https://slack.com/intl/en-in/help/articles/204897248-Guide-to-
 Paying attention to your workspace setting can assist you figure out the admin’s intention.
 
 
-> When you gossip within the office and your boss overhears you there’s still an opportunity of escaping by making some excuse 
-but when your boss has the screenshot of your gossips none of the justifications are gonna save you.
+> _When you gossip within the office and your boss overhears you there’s still an opportunity of escaping by making some excuse 
+but when your boss has the screenshot of your gossips none of the justifications are gonna save you._
 
 So why put your job and your privacy in danger . Don’t use the meeting app for private conversations.
 
