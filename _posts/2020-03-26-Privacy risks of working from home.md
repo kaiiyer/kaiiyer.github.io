@@ -1,10 +1,8 @@
-## Privacy risks of working from home
-
-<img src="https://miro.medium.com/max/5184/1*jIgH1VJHHEX8cHW4EqBE4w.jpeg" alt="Photo by NeONBRAND on Unsplash" width= "600px" height="350vh"> 
-
 Should we actually care about privacy during coronavirus pandemic ?
 Why is privacy a big deal during this crunch ?
 Let’s understand WHY privacy may be a big enchilada.
+
+<img src="https://miro.medium.com/max/5184/1*jIgH1VJHHEX8cHW4EqBE4w.jpeg" alt="Photo by NeONBRAND on Unsplash" width= "600px" height="350vh"> 
 
 The coronavirus pandemic has led to a situation where the offices are packed up and social distancing is proposed by the government. Nations including India, South Africa and UK have announced 21 days of lockdown. But because of the the web era and progress in technology, anyone can carry out their regular work from the comfort of their couch. Working from home is a luxury but this <b>luxury comes with its downsides</b>. Not only can remote workers have their own privacy put in danger, engaging from home could end in breaching company security too.
 
