@@ -23,10 +23,10 @@ In slack the admin controls the workspace and has the authority to make policies
 Here’s <a href="https://slack.com/intl/en-in/help/articles/204897248-Guide-to-Slack-import-and-export-tools">how.</a> 
 Paying attention to your workspace setting can assist you figure out the admin’s intention.
 
-```
-When you gossip within the office and your boss overhears you there’s still an opportunity of escaping by making some excuse 
+
+> When you gossip within the office and your boss overhears you there’s still an opportunity of escaping by making some excuse 
 but when your boss has the screenshot of your gossips none of the justifications are gonna save you.
-```
+
 So why put your job and your privacy in danger . Don’t use the meeting app for private conversations.
 
 Most of the apps like zoom have policies which only tracks if the window is open. 
