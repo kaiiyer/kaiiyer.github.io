@@ -1,49 +1,38 @@
-What is security?
+What is Security?
 
 In simple words it is about protection. Earlier, we had physical security to protect our valuable assets in the physical world. But when we move more toward the cyber world, we need a new set of software and tools to protect our data and privacy.
 
 The three pillars of security are :
 
-### CIA triad
+# CIA triad
 
-##Confidentiality — this focuses on protecting the “Read” operation. You do not want unauthorized people to read your confidential information, for example, your credit card number, your passwords or payroll amount.
+<b>Confidentiality</b> — this focuses on protecting the “Read” operation. You do not want unauthorized people to read your confidential information, for example, your credit card number, your passwords or payroll amount.
 
-##Integrity — this focuses on protecting the “Write” operation. You do not want to unauthorized people to modify your data. For example, you do not want someone to withdraw money from your bank account without your permission.
+<b>Integrity</b> — this focuses on protecting the “Write” operation. You do not want to unauthorized people to modify your data. For example, you do not want someone to withdraw money from your bank account without your permission.
 
-##Availability — this means the systems and data are always accessible when you need them. For example, an online banking system or an online shopping site should always be on.
+<b>Availability</b> — this means the systems and data are always accessible when you need them. For example, an online banking system or an online shopping site should always be on.
 
-### Powerful Tool-kits available today
+# Powerful Tool-kits available today
 
-Mozilla’s Internet Health Report or Online Privacy and Security brief (PDF).
-A Healthy Internet is Secure and Private
+> - Mozilla’s [Internet Health Report](https://internethealthreport.org/) or [Online Privacy and Security brief](https://assets.mozilla.net/pdf/IHPbriefs_Online_Privacy_March_2017.pdf)
+    A Healthy Internet is Secure and Private. The Internet only stays healthy if we trust it as a safe place - to explore, transact, connect, and create.
 
-The Internet only stays healthy if we trust it as a safe place - to explore, transact, connect, and create.
-www.mozilla.org
 
-MyShadow helps you take control of your data.
-What is a Digital Shadow ? Watch this to understand.
-Me and my Shadow
+> - [MyShadow](https://myshadow.org/train) helps you take control of your data.
+    What is a Digital Shadow ? Watch [this](https://myshadow.org/media/video/what-is-a-digital-shadow.mp4) to understand.
+    MyShadow.org offers practical ways to take back your privacy online.
 
-MyShadow.org offers practical ways to take back your privacy online.
-myshadow.org
 
-Electronic Frontier Foundation (EFF). The leading nonprofit defending digital privacy, free speech, and innovation.
-Electronic Frontier Foundation
+> - [Electronic Frontier Foundation](www.eff.org) (EFF). The leading nonprofit defending digital privacy, free speech, and innovation.
+    Defending your rights in the digital world. The Electronic Frontier Foundation is an independent non-profit working to protect online privacy for nearly thirty years.
 
-Defending your rights in the digital world
-www.eff.org
+> - [Surveillance Self-Defense](ssd.eff.org)
+    Tips, Tools and How-tos for Safer Online Communications
 
-Surveillance Self-Defense. Provides Tips, Tools and How-tos for Safer Online Communications. We’re the Electronic Frontier Foundation, an independent non-profit working to protect online privacy for nearly thirty years.
-Surveillance Self-Defense
 
-Tips, Tools and How-tos for Safer Online Communications
-ssd.eff.org
+> - [Security Education Companion](sec.eff.org)
+    A free resource for digital security educators. SEC is a resource for people teaching digital security to their friends and neighbors.
 
-Security Education Companion. A free resource for digital security educators. SEC is a resource for people teaching digital security to their friends and neighbors.
-Security Education Companion
-
-The Security Education Companion is a resource for people teaching digital security to their friends and neighbors.
-sec.eff.org
 
 Privacy Badger. Privacy Badger automatically learns to block invisible trackers.
 Privacy Badger
@@ -51,11 +40,11 @@ Privacy Badger
 Install Privacy Badger and enable Do not Track
 www.eff.org
 
-Tor Project. We believe everyone should be able to explore the internet with privacy.We advance human rights and defend your privacy online through free and open source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.
-The Tor Project | Privacy & Freedom Online
+> - [Tor Project](www.torproject.org)
+    We believe everyone should be able to explore the internet with privacy. We advance human rights and defend your privacy online through free and open source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.
 
 Defend yourself against tracking and surveillance. Circumvent censorship.
-www.torproject.org
+
 
 DEFEND and DETOX. An amazing step by step guide to running a digital safety class. This curriculum was created for a Defend and Detox event for women in New York City to teach the digital women how to protect herself online. The curriculum can be adapted for women anywhere.
 DEFEND: Privacy and Security Workshop for Women
