@@ -17,11 +17,9 @@ The three pillars of security are :
 > - Mozilla’s [Internet Health Report](https://internethealthreport.org/) or [Online Privacy and Security brief](https://assets.mozilla.net/pdf/IHPbriefs_Online_Privacy_March_2017.pdf)
     A Healthy Internet is Secure and Private. The Internet only stays healthy if we trust it as a safe place - to explore, transact, connect, and create.
 
-
 > - [MyShadow](https://myshadow.org/train) helps you take control of your data.
     What is a Digital Shadow ? Watch [this](https://myshadow.org/media/video/what-is-a-digital-shadow.mp4) to understand.
     MyShadow.org offers practical ways to take back your privacy online.
-
 
 > - [Electronic Frontier Foundation](www.eff.org) (EFF). The leading nonprofit defending digital privacy, free speech, and innovation.
     Defending your rights in the digital world. The Electronic Frontier Foundation is an independent non-profit working to protect online privacy for nearly thirty years.
@@ -29,16 +27,11 @@ The three pillars of security are :
 > - [Surveillance Self-Defense](ssd.eff.org)
     Tips, Tools and How-tos for Safer Online Communications
 
-
 > - [Security Education Companion](sec.eff.org)
     A free resource for digital security educators. SEC is a resource for people teaching digital security to their friends and neighbors.
 
-
-Privacy Badger. Privacy Badger automatically learns to block invisible trackers.
-Privacy Badger
-
-Install Privacy Badger and enable Do not Track
-www.eff.org
+> - [Privacy Badger](https://www.eff.org/privacybadger) 
+    Privacy Badger automatically learns to block invisible trackers.
 
 > - [Tor Project](www.torproject.org)
     We believe everyone should be able to explore the internet with privacy. We advance human rights and defend your privacy online through free and open source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.
@@ -46,62 +39,37 @@ www.eff.org
 Defend yourself against tracking and surveillance. Circumvent censorship.
 
 
-DEFEND and DETOX. An amazing step by step guide to running a digital safety class. This curriculum was created for a Defend and Detox event for women in New York City to teach the digital women how to protect herself online. The curriculum can be adapted for women anywhere.
-DEFEND: Privacy and Security Workshop for Women
+> - [DEFEND and DETOX](https://thimbleprojects.org/amira/283780/#overview) 
+    An amazing step by step guide to running a digital safety class. This curriculum was created for a Defend and Detox event for women in New York City to teach the digital women how to protect herself online. The curriculum can be adapted for women anywhere.
 
-The Security Question Test is a simulation intended to show how easy it is to share personal information.
-thimbleprojects.org
+> - [Data Security Exchange](https://www.digitalsecurityexchange.org/) 
+    Civil society organizations face a number of different threats. We link them with digital security providers to help. Keeping US civil society safe from digital attack.
 
-Mozilla Privacy Toolkit Handout.
+> - [Speak Up & Stay Safe(r)](https://onlinesafety.feministfrequency.com/en/)
+    A Guide to Protecting Yourself From Online Harassment. A Guide to Protecting Yourself From Online Harassment.
 
-Data Security Exchange. Civil society organizations face a number of different threats. We link them with digital security providers to help.
-DSX
+> - [Security in a Box](tacticssecurityinabox.org)
+    Digital security tools and tactics. The Tactics Guides in this toolkit cover basic principles, including advice on how to use social media and mobile phones more safely. The Tool Guides offer step-by-step instructions to help you install, configure and use some essential digital security software and services.
 
-Keeping US civil society safe from digital attack
-www.digitalsecurityexchange.org
+> - [Accessnow](https://www.accessnow.org/first-look-at-digital-security/)
+    Access Now defends and extends the digital rights of users at risk around the world. By combining direct technical support, comprehensive policy engagement, global advocacy, grassroots grantmaking, and convenings such as RightsCon, we fight for human rights in the digital age.
 
-Speak Up & Stay Safe(r): A Guide to Protecting Yourself From Online Harassment
-Speak Up & Stay Safe(r):
+> - [Data Detox kits](https://tacticaltech.org/news/data-detox-kit/) 
+    Small steps to change your habits and reduce data traces. The Data Detox Kit is an 8-day step-by-step guide on how to reduce data traces online. Each day has a different focus — from cleaning up your apps, to social media, to your phone’s connectivity — informing you of the data processes, walking you through some changes you can make, and giving you a small challenge at the end of each day.
 
-A Guide to Protecting Yourself From Online Harassment Feeling overwhelmed? Don't have time to read the whole thing…
-onlinesafety.feministfrequency.com
+> - [Open Web Application Security Project (OWASP)](https://www.owasp.org/index.php/Main_Page)
+    A worldwide not-for-profit charitable organization focused on improving the security of software. Our mission is to make software security visible in order to provide impartial, practical information about AppSec to individuals, corporations, universities, government agencies, and other organizations worldwide.
 
-Security in a Box — Digital security tools and tactics. The Tactics Guides in this toolkit cover basic principles, including advice on how to use social media and mobile phones more safely. The Tool Guides offer step-by-step instructions to help you install, configure and use some essential digital security software and services.
-Security in a Box - Digital security tools and tactics
-
-Security in a Box - Digital security tools and tacticssecurityinabox.org
-
-Accessnow. Access Now defends and extends the digital rights of users at risk around the world. By combining direct technical support, comprehensive policy engagement, global advocacy, grassroots grantmaking, and convenings such as RightsCon, we fight for human rights in the digital age.
-Don't panic! Download "A First Look at Digital Security"
-
-We have shared the entire project on GitHub. Feel free to comment, fork, or contact us there! The U.S. elections and…
-www.accessnow.org
-
-Data Detox kits: Small steps to change your habits and reduce data traces. The Data Detox Kit is an 8-day step-by-step guide on how to reduce data traces online. Each day has a different focus — from cleaning up your apps, to social media, to your phone’s connectivity — informing you of the data processes, walking you through some changes you can make, and giving you a small challenge at the end of each day.
-Data detox kit
-
-Download a Data Detox Kit and start cleaning up your digital life!
-tacticaltech.org
-
-Open Web Application Security Project (OWASP) is a worldwide not-for-profit charitable organization focused on improving the security of software. Our mission is to make software security visible in order to provide impartial, practical information about AppSec to individuals, corporations, universities, government agencies, and other organizations worldwide.
-OWASP
-
-There are thousands of active wiki users around the globe who review the changes to the site to help ensure quality. If…
-www.owasp.org
-
-Motherboard. A Practical Checklist For Leading Your First Training.Do you want to teach people about infosec, opsec and how to stay safe online? Here’s where to start.
-How to Lead a Digital Security Workshop
-
-At Motherboard, we don't just like talking about security, we want to show you how to make society more secure
-motherboard.vice.com
+> - [Motherboard](https://motherboard.vice.com/en_us/article/4xby8g/how-to-give-a-digital-security-training)
+    A Practical Checklist For Leading Your First Training.Do you want to teach people about infosec, opsec and how to stay safe online? Here’s where to start.
 
 ### Articles worth Reading
 
-How To Make Sure Your Home Address Isn’t Easily Available Online
+> - [How To Make Sure Your Home Address Isn’t Easily Available Online](https://www.autostraddle.com/how-to-make-sure-your-honest-to-god-actual-home-address-isnt-easily-available-online-365455/)
 How To Make Sure Your Honest to God Actual Home Address Isn't Easily Available Online
 
 This week, I stumbled across this thread on Twitter. And I was stunned. In it, a (rightly) concerned citizen of the…
-www.autostraddle.com
+
 
 What is Doxing and how to Prevent it from Happening
 So What the Hell Is Doxxing? - ProPublica
