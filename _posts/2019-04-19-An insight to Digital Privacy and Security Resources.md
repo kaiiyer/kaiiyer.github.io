@@ -36,9 +36,6 @@ The three pillars of security are :
 > - [Tor Project](www.torproject.org)
     We believe everyone should be able to explore the internet with privacy. We advance human rights and defend your privacy online through free and open source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.
 
-Defend yourself against tracking and surveillance. Circumvent censorship.
-
-
 > - [DEFEND and DETOX](https://thimbleprojects.org/amira/283780/#overview) 
     An amazing step by step guide to running a digital safety class. This curriculum was created for a Defend and Detox event for women in New York City to teach the digital women how to protect herself online. The curriculum can be adapted for women anywhere.
 
@@ -66,27 +63,16 @@ Defend yourself against tracking and surveillance. Circumvent censorship.
 ### Articles worth Reading
 
 > - [How To Make Sure Your Home Address Isn’t Easily Available Online](https://www.autostraddle.com/how-to-make-sure-your-honest-to-god-actual-home-address-isnt-easily-available-online-365455/)
-How To Make Sure Your Honest to God Actual Home Address Isn't Easily Available Online
+    How To Make Sure Your Honest to God Actual Home Address Isn't Easily Available Online...
 
-This week, I stumbled across this thread on Twitter. And I was stunned. In it, a (rightly) concerned citizen of the…
+> - What is [Doxing](https://www.propublica.org/article/so-what-the-hell-is-doxxing) and how to Prevent it from Happening> - 
+    So What the Hell Is Doxxing? Remember Gamergate? Or when the identity of that dentist who killed Cecil the Lion was posted?... 
 
+> - [How to Use Signal Without Giving Out Your Phone Number](https://theintercept.com/2017/09/28/signal-tutorial-second-phone-number/)
+    Just a few years ago, sending encrypted messages was a challenge. Just to get started, you had to spend hours following...
 
-What is Doxing and how to Prevent it from Happening
-So What the Hell Is Doxxing? - ProPublica
-
-Remember Gamergate? Or when the identity of that dentist who killed Cecil the Lion was posted? Or that man who was…
-www.propublica.org
-
-How to Use Signal Without Giving Out Your Phone Number
-
-Just a few years ago, sending encrypted messages was a challenge. Just to get started, you had to spend hours following…
-theintercept.com
-
-Don’t like being tracked online? Set up a VPN in 5 min for free
-How to set up a VPN in 10 minutes for free (and why you urgently need one)
-
-“A computer lets you make more mistakes faster than any other invention with the possible exceptions of handguns and…
-medium.freecodecamp.org
+> - [Don’t like being tracked online? Set up a VPN for free](https://medium.freecodecamp.org/how-to-set-up-a-vpn-in-5-minutes-for-free-and-why-you-urgently-need-one-d5cdba361907)
+    How to set up a VPN in 10 minutes for free (and why you urgently need one)
 
 A DIY Guide to Feminist Cybersecurity
 DIY Feminist Cybersecurity
@@ -173,15 +159,17 @@ Micah Lee’s work at The Intercept.
     Cyberwise
     EC Council
 
-Futurism: How to protect your online identity
-> [What Is Threat Modeling?](https://video.vice.com/en_us/video/motherboard-hacking-week-what-is-threat-modeling/5a0b2378177dd428d3222d68?ref=motherboard)
+> - [Protect your online identity](https://youtu.be/ok0BKGZIZ6c)
+    Futurism: How to Protect your Online Identity
+    
+> - [What Is Threat Modeling?](https://video.vice.com/en_us/video/motherboard-hacking-week-what-is-threat-modeling/5a0b2378177dd428d3222d68?ref=motherboard)
     Motherboard's Lorenzo Franceschi-Bicchierai explains what threat modeling is, and how it can keep you
 
 
-> [Secure the News](https://securethe.news/)
+> - [Secure the News](https://securethe.news/)
     Every news site should be secure.
 
-> [Infosec Resources](https://resources.infosecinstitute.com/)
+> - [Infosec Resources](https://resources.infosecinstitute.com/)
     IT Security Training & Resources by InfosecInstitute
 
 Thanks for Reading.
