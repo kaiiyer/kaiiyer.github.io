@@ -62,6 +62,7 @@ The three pillars of security are :
     A Practical Checklist For Leading Your First Training.Do you want to teach people about infosec, opsec and how to stay safe online? Here’s where to start.
 
 # Articles worth Reading
+[](xyz)
 
 > - [How To Make Sure Your Home Address Isn’t Easily Available Online](https://www.autostraddle.com/how-to-make-sure-your-honest-to-god-actual-home-address-isnt-easily-available-online-365455/)
     How To Make Sure Your Honest to God Actual Home Address Isn't Easily Available Online...
@@ -113,7 +114,7 @@ Micah Lee’s work at The Intercept.
 
 
 # Free professional resources, conferences, podcasts and webinars
-
+[](xyz)
     Conferences :
 
     OWASP Seasides
