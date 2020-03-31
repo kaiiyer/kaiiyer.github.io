@@ -98,8 +98,8 @@ Civil liberties groups condemn the Trump admin's indictment of Julian Assange
 While the indictment of Julian Assange centers on an alleged attempt to break a password-an attempt that was not…
 freedom.press
 
-Getting Started with Digital Security
-Security Tips Every Signal User Should Know
+> - [Getting Started with Digital Security](https://theintercept.com/2016/07/02/security-tips-every-signal-user-should-know/)
+    Security Tips Every Signal User Should Know
 
 There are dozens of messaging apps for iPhone and Android, but one in particular continues to stand out in the crowd…
 theintercept.com
@@ -115,6 +115,7 @@ Micah Lee’s work at The Intercept.
 
 # Free professional resources, conferences, podcasts and webinars
 [](xyz)
+    
     Conferences :
 
     OWASP Seasides
