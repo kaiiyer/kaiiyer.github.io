@@ -6,13 +6,13 @@ In other words, you get paid to legally hack. In this “cool kid” job, you wi
 some predetermined, some that you design yourself — to simulate real-life cyber attacks. 
 Your ultimate aim is to help an organization improve its security.
 
-### What Are the Penetration Tester Requirements?
+# What Are the Penetration Tester Requirements?
 
 While it may be possible to find a job as a penetration tester based solely on having the right set of skills, most employers prefer to hire penetration testers 
 who have previous relevant work experience. Some employers want employees who have at least a bachelor’s degree. 
 Additionally, employers may require that penetration testers have certification in ethical hacking and other IT security areas.
 
-### Degree Requirements
+# Degree Requirements
 
 Most Pen Testers don’t hold a specialized degree. 
 Since ethical hacking is more about skills than course credits, a bachelor or master’s degree in cyber security is unnecessary if you have appropriate job experience.
@@ -20,7 +20,7 @@ Since ethical hacking is more about skills than course credits, a bachelor or ma
 Hone your street skills any which way you can. Go to [Security Conferences](https://www.cyberdegrees.org/resources/the-big-list/), 
 research potential [Certifications](#Certifications-for-Penetration-Testers), look into SANS courses, set up a [pen testing lab](https://github.com/kaiiyer/awesome-vulnerable/), learn from other pen testers, read and read more.
 
-### Work Experience
+# Work Experience
 
 Overall, employers appear to be looking for 2–4 years of security-related experience with practice in penetration testing and vulnerability assessments. 
 The range for Senior Penetration Testers is more variable. It may be as low as 3 and as high as 7–10 years of experience.
@@ -28,7 +28,7 @@ The range for Senior Penetration Testers is more variable. It may be as low as 3
 In addition to education, penetration testers are required to have certain skills. They must have excellent computer skills to be able to attempt hacking systems. 
 Most importantly, penetration testers must have exceptional problem-solving skills to be able to determine the best course of action when resolving issues and protecting networks from potential threats or breaches.
 
-### Hard Skills
+# Hard Skills
 
 Pen testers conduct security audits, develop code, automate processes, reverse engineer binaries — the list goes on. 
 So try and learn as much as you can about operating systems, software, communications and network protocols.
@@ -47,7 +47,7 @@ Here are technical skills we have seen employers favoring:
   -  Forensics tools
   -  Cryptography principles
 
-### Certifications for Penetration Testers
+# Certifications for Penetration Testers
 
 There is no master list of preferred certifications for pen testing. Although it’s popular within the IT industry, CEH is fairly loose. We recommend you ask colleagues about the pluses and minuses of accreditations like CPT/CEPT, GPEN and — especially — OSCP.
 
@@ -63,7 +63,7 @@ There is no master list of preferred certifications for pen testing. Although it
   -  [CCFE](http://www.iacertification.org/ccfe_certified_computer_forensics_examiner.html): Certified Computer Forensics Examiner
   -  [CREA](http://www.iacertification.org/crea_certified_reverse_engineering_analyst.html): Certified Reverse Engineering Analyst
 
-### What Are Some Penetration Tester Roles and Responsibilities?
+# What Are Some Penetration Tester Roles and Responsibilities?
 
 Penetration testers seek to identify security vulnerabilities in an organization’s networks, and then resolve them, 
 sometimes creating new or improved security protocols. This involves many responsibilities and tasks.
@@ -96,7 +96,7 @@ But as Daniel Miessler points out in [The Difference Between a Vulnerability Ass
 
 “A penetration testing team may be able to simply take pictures standing next to the open safe, or to show they have full access to a database, etc., without actually taking the complete set of actions that a criminal could.”
 
-## A Day in the Life of a Penetration Tester
+# A Day in the Life of a Penetration Tester
 
 A typical day for one penetration tester may look a lot different from another’s depending on the organization they work for. 
 For some, there may be travel required between different sites, they may be required to work evenings or weekends to not disrupt the work flow of the company, or they may be able to perform some duties remotely or by telecommuting. But, the heart of the penetration tester position is identifying security system vulnerabilities by attempting to exploit them and then coming up with solutions to resolve the weaknesses to keep their organization’s information safe.
