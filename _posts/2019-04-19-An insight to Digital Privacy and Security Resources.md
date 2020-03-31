@@ -13,7 +13,7 @@ The three pillars of security are :
 <b>Availability</b> — this means the systems and data are always accessible when you need them. For example, an online banking system or an online shopping site should always be on.
 
 # Powerful Tool-kits available today
-</br>
+
 
 > - Mozilla’s [Internet Health Report](https://internethealthreport.org/) or [Online Privacy and Security brief](https://assets.mozilla.net/pdf/IHPbriefs_Online_Privacy_March_2017.pdf)
     A Healthy Internet is Secure and Private. The Internet only stays healthy if we trust it as a safe place - to explore, transact, connect, and create.
@@ -81,21 +81,15 @@ DIY Feminist Cybersecurity
 Your casual internet browsing yields a treasure trove of personal data for anyone who can see what you're doing…
 hackblossom.org
 
-Phishing's No Phun; Here's How To Resist The Bait
+> - [Phishing's No Phun; Here's How To Resist The Bait](https://www.autostraddle.com/phishings-no-phun-heres-how-to-resist-the-bait-378342/)
+    Likely you've heard about the massive phishing scam of the week. Some malicious human…
 
-feature image via Shutterstock. Likely you've heard about the massive phishing scam of the week. Some malicious human…
-www.autostraddle.com
+> - [Equality Labs Privacy + Security Curriculum Guide](https://www.equalitylabs.org/curriculum/)
+    This curriculum was co-developed by qualified digital security trainers of color who have experience working in…
 
-Equality Labs Privacy + Security Curriculum Guide
-CURRICULUM - EQUALITY LABS
+> - [How to Run a Rogue Government Twitter Account With an Anonymous Email Address and a Burner Phone](https://www.theguardian.com/global-development/poverty-matters/2011/aug/04/digital-technology-development-tool)
+    For this exercise, I decided to pick a highly controversial political topic: Facts. I believe that what we know about…
 
-This curriculum was co-developed by qualified digital security trainers of color who have experience working in…
-www.equalitylabs.org
-
-How to Run a Rogue Government Twitter Account With an Anonymous Email Address and a Burner Phone
-
-For this exercise, I decided to pick a highly controversial political topic: Facts. I believe that what we know about…
-theintercept.com
 
 Journalists in Distress: Securing Your Digital Life
 Civil liberties groups condemn the Trump admin's indictment of Julian Assange
