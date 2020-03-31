@@ -14,6 +14,7 @@ The three pillars of security are :
 
 # Powerful Tool-kits available today
 
+
 > - Mozilla’s [Internet Health Report](https://internethealthreport.org/) or [Online Privacy and Security brief](https://assets.mozilla.net/pdf/IHPbriefs_Online_Privacy_March_2017.pdf)
     A Healthy Internet is Secure and Private. The Internet only stays healthy if we trust it as a safe place - to explore, transact, connect, and create.
 
@@ -60,7 +61,7 @@ The three pillars of security are :
 > - [Motherboard](https://motherboard.vice.com/en_us/article/4xby8g/how-to-give-a-digital-security-training)
     A Practical Checklist For Leading Your First Training.Do you want to teach people about infosec, opsec and how to stay safe online? Here’s where to start.
 
-### Articles worth Reading
+# Articles worth Reading
 
 > - [How To Make Sure Your Home Address Isn’t Easily Available Online](https://www.autostraddle.com/how-to-make-sure-your-honest-to-god-actual-home-address-isnt-easily-available-online-365455/)
     How To Make Sure Your Honest to God Actual Home Address Isn't Easily Available Online...
@@ -117,7 +118,7 @@ Micah Lee’s work at The Intercept.
 [Schneier on Security](https://theintercept.com/staff/micah-lee/)
 
 
-### Free professional resources, conferences, podcasts and webinars
+# Free professional resources, conferences, podcasts and webinars
 
     Conferences :
 
