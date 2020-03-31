@@ -4,7 +4,7 @@ In simple words it is about protection. Earlier, we had physical security to pro
 
 The three pillars of security are :
 
-CIA triad
+### CIA triad
 
 ##Confidentiality — this focuses on protecting the “Read” operation. You do not want unauthorized people to read your confidential information, for example, your credit card number, your passwords or payroll amount.
 
@@ -12,7 +12,7 @@ CIA triad
 
 ##Availability — this means the systems and data are always accessible when you need them. For example, an online banking system or an online shopping site should always be on.
 
-Powerful Tool-kits available today
+### Powerful Tool-kits available today
 
 Mozilla’s Internet Health Report or Online Privacy and Security brief (PDF).
 A Healthy Internet is Secure and Private
@@ -105,7 +105,8 @@ How to Lead a Digital Security Workshop
 
 At Motherboard, we don't just like talking about security, we want to show you how to make society more secure
 motherboard.vice.com
-Articles worth Reading
+
+### Articles worth Reading
 
 How To Make Sure Your Home Address Isn’t Easily Available Online
 How To Make Sure Your Honest to God Actual Home Address Isn't Easily Available Online
@@ -119,7 +120,6 @@ So What the Hell Is Doxxing? - ProPublica
 Remember Gamergate? Or when the identity of that dentist who killed Cecil the Lion was posted? Or that man who was…
 www.propublica.org
 
-How to Use Signal Without Giving Out Your Phone Number
 How to Use Signal Without Giving Out Your Phone Number
 
 Just a few years ago, sending encrypted messages was a challenge. Just to get started, you had to spend hours following…
@@ -137,7 +137,6 @@ DIY Feminist Cybersecurity
 Your casual internet browsing yields a treasure trove of personal data for anyone who can see what you're doing…
 hackblossom.org
 
-Phishing’s No Phun; Here’s How To Resist The Bait
 Phishing's No Phun; Here's How To Resist The Bait
 
 feature image via Shutterstock. Likely you've heard about the massive phishing scam of the week. Some malicious human…
@@ -149,7 +148,6 @@ CURRICULUM - EQUALITY LABS
 This curriculum was co-developed by qualified digital security trainers of color who have experience working in…
 www.equalitylabs.org
 
-How to Run a Rogue Government Twitter Account With an Anonymous Email Address and a Burner Phone
 How to Run a Rogue Government Twitter Account With an Anonymous Email Address and a Burner Phone
 
 For this exercise, I decided to pick a highly controversial political topic: Facts. I believe that what we know about…
@@ -168,17 +166,15 @@ There are dozens of messaging apps for iPhone and Android, but one in particular
 theintercept.com
 
 Encrypting Your Laptop Like You Mean It
-Encrypting Your Laptop Like You Mean It
 
 TIME AND AGAIN, people are told there is one obvious way to mitigate privacy threats of all sorts, from mass…
 theintercept.com
 
 Micah Lee’s work at The Intercept.
-Schneier on Security
+[Schneier on Security](https://theintercept.com/staff/micah-lee/)
 
-Researchers at Cisco's Talos security division on Wednesday revealed that a hacker group it's calling Sea Turtle…
-www.schneier.com
-Free professional resources, conferences, podcasts and webinars
+
+### Free professional resources, conferences, podcasts and webinars
 
     Conferences :
 
@@ -221,18 +217,15 @@ Free professional resources, conferences, podcasts and webinars
     EC Council
 
 Futurism: How to protect your online identity
-What Is Threat Modeling?
+> [What Is Threat Modeling?](https://video.vice.com/en_us/video/motherboard-hacking-week-what-is-threat-modeling/5a0b2378177dd428d3222d68?ref=motherboard)
+    Motherboard's Lorenzo Franceschi-Bicchierai explains what threat modeling is, and how it can keep you
 
-Motherboard's Lorenzo Franceschi-Bicchierai explains what threat modeling is, and how it can keep you - and your data …
-video.vice.com
-Secure the News
 
-Every news site should be secure.
-securethe.news
-Infosec Resources
-IT Security Training & Resources by Infosec
+> [Secure the News](https://securethe.news/)
+    Every news site should be secure.
 
-IT Security Training & Resources by Infosecresources.infosecinstitute.com
+> [Infosec Resources](https://resources.infosecinstitute.com/)
+    IT Security Training & Resources by InfosecInstitute
 
 Thanks for Reading.
-If anything is to be added to the list, please ping me @Kai Iyer.
+If anything is to be added to the list, please ping me @[Kai Iyer](https://twitter.com/kaiiyer).
