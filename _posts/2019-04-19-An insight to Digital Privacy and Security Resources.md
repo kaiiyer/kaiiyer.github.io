@@ -76,11 +76,8 @@ The three pillars of security are :
 > - [Don’t like being tracked online? Set up a VPN for free](https://medium.freecodecamp.org/how-to-set-up-a-vpn-in-5-minutes-for-free-and-why-you-urgently-need-one-d5cdba361907)
     How to set up a VPN in 10 minutes for free (and why you urgently need one)
 
-A DIY Guide to Feminist Cybersecurity
-DIY Feminist Cybersecurity
-
-Your casual internet browsing yields a treasure trove of personal data for anyone who can see what you're doing…
-hackblossom.org
+> - [A DIY Guide to Feminist Cybersecurity](https://hackblossom.org/cybersecurity/)
+    Your casual internet browsing yields a treasure trove of personal data for anyone who can see what you're doing…
 
 > - [Phishing's No Phun; Here's How To Resist The Bait](https://www.autostraddle.com/phishings-no-phun-heres-how-to-resist-the-bait-378342/)
     Likely you've heard about the massive phishing scam of the week. Some malicious human…
@@ -92,25 +89,17 @@ hackblossom.org
     For this exercise, I decided to pick a highly controversial political topic: Facts. I believe that what we know about…
 
 
-Journalists in Distress: Securing Your Digital Life
-Civil liberties groups condemn the Trump admin's indictment of Julian Assange
-
-While the indictment of Julian Assange centers on an alleged attempt to break a password-an attempt that was not…
-freedom.press
+> - [Journalists in Distress: Securing Your Digital Life](https://freedom.press/news/civil-liberties-groups-condemn-trump-admins-indictment-julian-assange/)
+    Civil liberties groups condemn the Trump admin's indictment of Julian Assange. While the indictment of Julian Assange centers on an alleged attempt to break a password-an attempt that was not…
 
 > - [Getting Started with Digital Security](https://theintercept.com/2016/07/02/security-tips-every-signal-user-should-know/)
-    Security Tips Every Signal User Should Know
+    Security Tips Every Signal User Should Know. There are dozens of messaging apps for iPhone and Android, but one in particular continues to stand out in the crowd…
 
-There are dozens of messaging apps for iPhone and Android, but one in particular continues to stand out in the crowd…
-theintercept.com
+> - [Encrypting Your Laptop Like You Mean It](https://theintercept.com/2015/04/27/encrypting-laptop-like-mean/)
+    TIME AND AGAIN, people are told there is one obvious way to mitigate privacy threats of all sorts, from mass…
 
-Encrypting Your Laptop Like You Mean It
-
-TIME AND AGAIN, people are told there is one obvious way to mitigate privacy threats of all sorts, from mass…
-theintercept.com
-
-Micah Lee’s work at The Intercept.
-[Schneier on Security](https://theintercept.com/staff/micah-lee/)
+> - [Schneier on Security](https://theintercept.com/staff/micah-lee/)
+    Micah Lee’s work at The [Intercept](https://www.schneier.com/)
 
 
 # Free professional resources, conferences, podcasts and webinars
@@ -160,11 +149,10 @@ Micah Lee’s work at The Intercept.
     Futurism: How to Protect your Online Identity
     
 > - [What Is Threat Modeling?](https://video.vice.com/en_us/video/motherboard-hacking-week-what-is-threat-modeling/5a0b2378177dd428d3222d68?ref=motherboard)
-    Motherboard's Lorenzo Franceschi-Bicchierai explains what threat modeling is, and how it can keep you
-
+    Motherboard's Lorenzo Franceschi-Bicchierai explains what threat modeling is, and how it can keep you...
 
 > - [Secure the News](https://securethe.news/)
-    Every news site should be secure.
+    Every news site should be secure
 
 > - [Infosec Resources](https://resources.infosecinstitute.com/)
     IT Security Training & Resources by InfosecInstitute
