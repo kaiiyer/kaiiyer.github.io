@@ -67,7 +67,7 @@ The three pillars of security are :
 > - [How To Make Sure Your Home Address Isn’t Easily Available Online](https://www.autostraddle.com/how-to-make-sure-your-honest-to-god-actual-home-address-isnt-easily-available-online-365455/)
     How To Make Sure Your Honest to God Actual Home Address Isn't Easily Available Online...
 
-> - What is [Doxing](https://www.propublica.org/article/so-what-the-hell-is-doxxing) and how to Prevent it from Happening> - 
+> - [What is Doxing and how to Prevent it from Happening](https://www.propublica.org/article/so-what-the-hell-is-doxxing) - 
     So What the Hell Is Doxxing? Remember Gamergate? Or when the identity of that dentist who killed Cecil the Lion was posted?... 
 
 > - [How to Use Signal Without Giving Out Your Phone Number](https://theintercept.com/2017/09/28/signal-tutorial-second-phone-number/)
@@ -124,7 +124,7 @@ The three pillars of security are :
 
     Podcasts :
 
-    Daily Stormcasts by SANS Internet Stormcasts
+    Daily Stormcasts by SANS
     Crypto Gram Security Podcasts
     The Hated One
     The Cyberwire
