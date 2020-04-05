@@ -75,7 +75,8 @@ Once that is done, the system will ask you to select the first sector for our pa
 
 Now comes the question of last sector. We are going to need a partition that is the size of our entire drive right? So we can press enter for this one too.
 
-    Last sector, +sectors or +size{K,M,G,T,P} (2048-15237119, default 15237119):
+    Last sector, 
+    +sectors or +size{K,M,G,T,P} (2048-15237119, default 15237119):
 
 And then, fdisk will finally bless you with a partition that spans the whole size of the drive.
 
@@ -90,19 +91,19 @@ So, we have a brand new parition right? mmm... not quite. We have to write it to
     Calling ioctl() to re-read partition table.
     Syncing disks.
 
-    [aswin@ThinkPad-L440 ~]$
+    $
 
 And it will drop you back to the shell. Now we have a partition that spans our entire drive, but one without a file system. Let us now create the file system using the mkfs utility.
 
 Type mkfs and double tap the Tab key. You will be greeted with a view similiar to the following.
 
-    [aswin@ThinkPad-L440 ~]$ mkfs
+    $ mkfs
     mkfs         mkfs.ext2    mkfs.ext4    mkfs.minix   mkfs.ntfs    mkfs.xfs
     mkfs.cramfs  mkfs.ext3    mkfs.fat     mkfs.msdos   mkfs.vfat
 
 This shows all the partition types mkfs can create. Right now, let us create a FAT32 partition. This can be done as follows.
 
-    [aswin@ThinkPad-L440 ~]$ sudo mkfs.fat /dev/sdb1 -n KARUVALLY
+    $ sudo mkfs.fat /dev/sdb1 -n KARUVALLY
     [sudo] password for aswin:
     mkfs.fat 4.1 (2017-01-24)
 
@@ -110,7 +111,7 @@ As I have told already, replace sdb with the device name for your specific drive
 
 If you want an NTFS drive, make sure to run the mkfs.ntfs command with the "-f" mode, or it will take an eternity, trying to fill your pendrive with zeroes. Also, note that mkfs.ntfs uses the "-L" switch to label the partition.
 
-    [aswin@ThinkPad-L440 ~]$ sudo mkfs.ntfs /dev/sdb1 -f -L KARUVALLY
+    $ sudo mkfs.ntfs /dev/sdb1 -f -L FlashDrive
     Cluster size has been automatically set to 4096 bytes.
     Creating NTFS volume structures.
     mkntfs completed successfully. Have a nice day.
