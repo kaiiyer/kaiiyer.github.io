@@ -1,5 +1,5 @@
 
-<img src="https://miro.medium.com/max/6000/1*bkgDXYXDzWqwjgQYhesgkg.jpeg" alt=".hack() by IEEE MACE" width= "600px" height="350vh">
+<img src="https://user-images.githubusercontent.com/24914913/78527374-4f0cf500-77fa-11ea-9621-ea13a6f9a279.jpeg" alt=".hack() by IEEE MACE" width= "600px" height="350vh">
 
 
 My 27th hackathon .hack() organized by IEEE MACE at KSUM(Kerala Startup Mission) was overflowing with ideas and innovation. Young devs, mentors, volunteers and the amazing participants took the excitement to the next level with their mind-blowing ideas.
