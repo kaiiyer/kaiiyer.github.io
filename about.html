@@ -50,6 +50,19 @@
 .floatLeft { width: 50%; float: left; }
 .floatRight {width: 50%; float: right; }
 .container { overflow: hidden; }
+
+#wrapper {
+  display: flex;
+}
+
+#left {
+  flex: 0 0 50%;
+}
+
+#right {
+  flex: 1;
+}
+
 </style>
 
     <div class="KW_progressContainer">
@@ -212,16 +225,10 @@
 
 				<div class="exp-wrap py-4">
 				<div class="desc">
-					<div class="floatLeft">
-					<table><tr>
-                    <tr><td><h4>Google</h4>
-                    </td></tr></tr></table>
-                    </div>	
-                    
-                    <div class="floatRight">
-					<table><tr>
-                    <tr><td><h4>Mozilla</h4>
-                    </td></tr></tr></table>
+					
+					<div id="wrapper">
+                    <div id="left"><h4>Google</h4></div>
+                    <div id="right"><h4>Mozilla</h4></div>
                     </div>
                       					  
 				</div>
