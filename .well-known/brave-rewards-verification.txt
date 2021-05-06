@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: kaiiyer.co
-Token: 3c5ad1cb8f01b253f2d2db5c310f714959c8711019f48313b6cd473bb9cbbae0
